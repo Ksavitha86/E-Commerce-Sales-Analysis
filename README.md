@@ -24,6 +24,7 @@ The analysis helps identify sales trends and compare regional and category-wise 
 ## Tableau Dashboard
 
 View the interactive dashboard:
+![E-Commerce Sales Dashboard](dashboard.png)
 
 [E-Commerce Sales Analysis](https://public.tableau.com/app/profile/savitha.katravath/viz/E-CommerceSalesAnalysis_17884570758390/Dashboard1)
 
